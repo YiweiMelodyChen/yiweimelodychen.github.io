@@ -39,7 +39,8 @@ search and Development (Chinese) 2021.
 
 # 📖 Educations
 
-- *2021.09 - 2024.06 (expected)*, M.S. in Computer Science and Techonology, XJTU.    Ranking: 7/173. 
+- *2021.09 - 2024.06 (expected)* M.S. in Computer Science and Techonology, XJTU.    Ranking: 7/173. 
+- *2020.01 - 2020.05* Exchange Student of Berkeley International Study Program, UC Berkeley
 - *2017.09 - 2021.06* B.Eng. in Automation, Honor Class in Qian Xuesen Honors College, XJTU.     Ranking: 3/24.
 - *2015.09 - 2017.06* [Special Class for Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young#Xi'an_Jiaotong_University), XJTU.      
 
