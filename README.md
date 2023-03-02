@@ -2,7 +2,10 @@
 <h1 align="center">
 AcadHomepage
 </h1>
+
 <div align="center">
+</div>
+
 <p align="center">A Modern and Responsive Academic Personal Homepage</p>
 
 <p align="center">
