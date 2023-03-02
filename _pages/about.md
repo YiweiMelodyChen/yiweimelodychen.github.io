@@ -50,7 +50,7 @@ search and Development (Chinese) 2021.
 
 Tile Classification Based Viewport Prediction with Multi-modal Fusion Transformer.
 
-Zhihao Zhang *, **Yiwei Chen** *, Weizhan Zhang, Caixia Yan, Qinghua Zheng, Qi Wang, Wangdu Chen (* Equal Contribution)
+Zhihao Zhang #,  **Yiwei Chen** #, Weizhan Zhang, Caixia Yan, Qinghua Zheng, Qi Wang, Wangdu Chen (# Equal Contribution)
 
 <div style='display: none'>
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
