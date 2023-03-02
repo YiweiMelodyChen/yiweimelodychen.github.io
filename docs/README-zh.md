@@ -1,15 +1,14 @@
-
 <h1 align="center">
 AcadHomepage
 </h1>
-是在[此仓库](https://github.com/RayeRen/acad-homepage.github.io)基础上进行修改.
+
 <div align="center">
 [![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
 [![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
 [![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
 [![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [English README](../README.md) 
-
 </div>
+
 
 <p align="center">一个现代、响应式的个人学术主页</p>
 
@@ -19,8 +18,9 @@ AcadHomepage
     <img src="./screenshot.png" width="100%"/>
     <br>
 </p>
-
+本仓库是在[此仓库](https://github.com/RayeRen/acad-homepage.github.io)基础上进行修改.
 一些例子：
+
 - [样例页面](https://rayeren.github.io/acad-homepage.github.io/)
 - [作者的个人主页](https://rayeren.github.io/)
 

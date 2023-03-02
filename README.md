@@ -2,7 +2,6 @@
 <h1 align="center">
 AcadHomepage
 </h1>
-Original Repository from [here](https://github.com/RayeRen/acad-homepage.github.io).
 <div align="center">
 
 [![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
@@ -18,6 +17,8 @@ Original Repository from [here](https://github.com/RayeRen/acad-homepage.github.
     <img src="docs/screenshot.png" width="100%"/>
     <br>
 </p>
+
+Original Repository from [here](https://github.com/RayeRen/acad-homepage.github.io).
 
 Some examples:
 - [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
