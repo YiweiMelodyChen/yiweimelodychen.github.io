@@ -43,7 +43,7 @@ I am a cs master student at Xi'an Jiaotong University (XJTU), advised by Prof. [
 
 [Tile Classification Based Viewport Prediction with Multi-modal Fusion Transformer](https://arxiv.org/pdf/2309.14704.pdf)
 
-Zhihao Zhang, **Yiwei Chen**, Weizhan Zhang, Caixia Yan, Qinghua Zheng, Qi Wang, Wangdu Chen.
+Zhihao Zhang<sup>*</sup>, **Yiwei Chen**<sup>*</sup>, Weizhan Zhang, Caixia Yan, Qinghua Zheng, Qi Wang, Wangdu Chen.
 (<sup>*</sup> means equal contribution)
 
 [Code](https://github.com/alanzhangcs/MFTR)
